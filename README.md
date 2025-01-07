@@ -1,8 +1,26 @@
-# React + Vite
+# React Vite Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Prerequisites
 
-Currently, two official plugins are available:
+Make sure you have the following installed on your machine:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Node.js**: >= 18.12.1
+- **npm**: >= 8.19.2
+
+## Getting Started
+
+Follow these steps to set up and run the application:
+
+### 1. Clone the Repository
+
+```bash
+git clone git@github.com:gabrielfs001/Desafio13-Movie-Ratings-Front.git
+cd Desafio13-Movie-Ratings-Front
+````
+
+### 2. Install Dependencies
+- npm install
+
+### 3. Run the Application
+- npm run dev
+- Then, access http://localhost:5173 in your browser.
